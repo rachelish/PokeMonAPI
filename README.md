@@ -42,9 +42,9 @@ My chosen API for this project is **enter here**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='codepath_gif_p5.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **screenToGIF**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
