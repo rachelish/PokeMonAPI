@@ -51,6 +51,8 @@ GIF created with **screentogif**
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
+I don't understand how to implement recyclerview without images. The lab was perfectly fine but I don't understand how each component works together to create scrolling text.
+
 ## License
 
 Copyright **2023** **rachel**
